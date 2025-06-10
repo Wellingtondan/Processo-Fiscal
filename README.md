@@ -1,6 +1,6 @@
 # Processo Fiscal
 
-## PLATAFORMAS, PROCESSOS FISCAIS, CONFERÊNCIAS E CUSTO
+### PLATAFORMAS, PROCESSOS FISCAIS, CONFERÊNCIAS E CUSTO
 
 Nesse repositório contém algumas orientações e passo a passo para entradas de notas, consultas, conferências, extrações base de XML de vendas.
 
@@ -27,7 +27,7 @@ São realizadas conferências diárias do sequencial das notas para não ocorrer
 
 #### 1.3 - MERCADO LIVRE (FULL)
 
-As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixar os xmls e importam ao sistema.
+As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixa os xmls e importa ao sistema.
 
 
 
