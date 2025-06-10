@@ -32,21 +32,35 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 ### 2. Empresas
 
-- FERRO STORE LTDA - CNPJ 59.217.616/0001-61 (CD)
+- FERRO STORE LTDA - CNPJ 59.217.616/0001-61 (CD) 
+
+**Emite Nota Fiscal**
 
 ➡️Ferro indústria (Venda)
+
 ➡️Ferro Ferramentas (E-commerce para abastecer o estoque)
+
 ➡️Ferro Store - Filial (Transferência) 
 
 - FERRO STORE LTDA - CNPJ 59.217.616/0002-42 (FERRO LOJA - FILIAL)
 
-- FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0001-11 (FERRO INDUSTRIA)
+**Emite Nota Fiscal**
 
-- FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)
+➡️Faturamento para todos os clientes balcão dentro da cidade
+
+➡️Ferro indústria (Venda)
+
+➡️Ferro Store - CD (Transferência)
 
 - FERRO FERRAMENTAS - CNPJ 25.003.733/0001-00 (E-COMMERCE)
 
+**Emite Nota Fiscal**
 
+➡️Faturamento para fora do estado ou mercado interno (SP)
+
+- FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0001-11 (FERRO INDUSTRIA)
+
+- FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)
 
 
 
