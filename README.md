@@ -16,6 +16,19 @@ Conforme a chegada da mercadoria e entrada ao sistema, as notas vão sendo liber
 
 #### 1.2 - BLING
 
+Abaixo são todas as plataformas de vendas do e-commerce nas quais as notas são emitidas pelo Bling:
+
+- Leroy Merlin
+- Mercado Livre
+- Tik Tok Shop
+- Ferro Ferramentas,
+
+São realizadas conferências diárias do sequencial das notas para não ocorrer nenhuma inconsistência ou pular a ordem dos números nas emissões, na qual são emitidas e importadas ao sistema pelo departamento do E-commerce. 
+
+#### 1.3 - MERCADO LIVRE (FULL)
+
+As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixar os xmls e importam ao sistema.
+
 
 
 
