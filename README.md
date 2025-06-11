@@ -21,9 +21,9 @@ Abaixo são todas as plataformas de vendas do e-commerce nas quais as notas são
 - Leroy Merlin
 - Mercado Livre
 - Tik Tok Shop
-- Ferro Ferramentas,
+- Ferro Ferramentas
 
-São realizadas conferências diárias do sequencial das notas para não ocorrer nenhuma inconsistência ou pular a ordem dos números nas emissões, na qual são emitidas e importadas ao sistema pelo departamento do E-commerce. 
+São realizadas conferências diárias do sequencial das notas para não ocorrer nenhuma inconsistência ou pular a ordem dos números nas emissões na qual são emitidas e importadas ao sistema Prisma pelo departamento do E-commerce. 
 
 #### 1.3 - MERCADO LIVRE (FULL)
 
