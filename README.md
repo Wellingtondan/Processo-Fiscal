@@ -73,9 +73,7 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 3.1 Portaria
 
-📑**Ferramentas**
-
-[Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
+📑**Ferramentas**: [Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
 3.2 RICMS
 
