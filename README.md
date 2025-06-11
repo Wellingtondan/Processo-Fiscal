@@ -77,6 +77,7 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 3.2 RICMS
 
+📑**Alíquotas**: 
 
 
 ```Acessarmos o sistema :```
