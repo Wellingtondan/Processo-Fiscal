@@ -27,7 +27,7 @@ São realizadas conferências diárias do sequencial das notas para não ocorrer
 
 #### 1.3 - MERCADO LIVRE (FULL)
 
-As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixa os xmls e importa ao sistema.
+As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixa os xmls e importa ao sistema Prisma.
 
 
 ### 2. Empresas
