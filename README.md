@@ -42,6 +42,8 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 ➡️Ferro Store - Filial ```(Transferência) ```
 
+--------
+
 ☑️**FERRO STORE LTDA - CNPJ 59.217.616/0002-42 (FERRO LOJA - FILIAL)**
 
 **Emite Nota Fiscal**
@@ -52,11 +54,15 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 ➡️Ferro Store - CD ```(Transferência)```
 
+--------
+
 ☑️**FERRO FERRAMENTAS - CNPJ 25.003.733/0001-00 (E-COMMERCE)**
 
 **Emite Nota Fiscal**
 
 ➡️```Faturamento para fora do estado ou mercado interno (SP)```
+
+--------
 
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0001-11 (FERRO INDUSTRIA)**
 
