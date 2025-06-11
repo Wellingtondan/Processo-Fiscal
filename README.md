@@ -4,7 +4,7 @@
 
 Nesse repositório contém algumas orientações e passo a passo para entradas de notas, consultas, conferências, extrações base de XML de vendas.
 
-### 1. Plataformas
+### 1. Plataformas (Notas Fiscais)
    
 #### 1.1 - QIVE
 
@@ -73,13 +73,20 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)**
 
 
-### 3. Portaria | Ricms SP
+### 3. Sistemas internos
 
-3.1 Portaria
+Prisma
+
+Super Soft
+
+
+### 4. Portaria | Ricms SP
+
+4.1 Portaria
 
 📑**Ferramentas**: [Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
-3.2 RICMS
+4.2 RICMS
 
 📑**Alíquotas**: 
 
