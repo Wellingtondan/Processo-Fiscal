@@ -136,3 +136,23 @@ Material desenvolvido para NFS-e com informações dos códigos de Serviços
 [Acesse conteúdo](https://github.com/Wellingtondan/Codigos-de-Servicos-Tomador.git)
 
 ```Acessarmos o sistema :```
+
+
+Exemplo de cálculo:
+
+> ![image](https://github.com/user-attachments/assets/85b209f0-e225-4625-b7e4-65f80208b45d)
+
+- Total de Produtos: 1699,90
+- Frete: 79,00
+- IPI: 85,00
+- MVA 70%
+- Redução 48,89% (Carga tributária 8,80%)
+
+**Base de ICMS:** (1699,90 + 79,00) * 48,89% = 869,70
+**Valor de ICMS:** (869,70 * 18%) = 156,55
+
+**Base de ICMS ST:** (1699,90 + 79,00 + 85) * 70% = 3168,63
+**Base de ICMS ST c/redução:** 3168,63 * 48,89% = 1549,14
+
+**Valor de ICMS ST:** 278,85 - 156,55 = 122,30
+
