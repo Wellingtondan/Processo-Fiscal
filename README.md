@@ -16,7 +16,14 @@ Conforme a chegada da mercadoria e entrada ao sistema, as notas vão sendo liber
 
 ##### 1.1.1 - Importação Prisma
 
-Pela manhã são realizadas as consultas completas das empresas ```FERRO STORE LTDA -CD, FERRO STORE LTDA-FILIAL e FERRO INDUSTRIA ANTIGA``` da NF-e e CT-e e são extraídos os xmls e salvas no caminho ```Y:\Publico\Fiscal\XML```
+Pela manhã são realizadas as consultas completas das empresas ```FERRO STORE LTDA - CD, FERRO STORE LTDA - FILIAL e FERRO INDUSTRIA ANTIGA``` da NF-e e CT-e e são extraídos os xmls e salvos no caminho ```Y:\Publico\Fiscal\XML``` onde será capturados pelo  sistema.
+
+O Caminho no sistema para a importação: ➡️ Estoque / Compras ➡️ Importar Notas Fiscais
+
+Após 
+
+> ![image](https://github.com/user-attachments/assets/e9162d2a-f2a8-444b-bc00-f9da0ce70887)
+
 
 
 #### 1.2 - BLING
