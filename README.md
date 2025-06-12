@@ -26,7 +26,7 @@ Pela manhã são realizadas as consultas completas da NF-e e CT-e e são extraí
 - FERRO INDUSTRIA ANTIGA
 ```
 
-O Caminho no sistema para a importação: ➡️ Estoque / Compras ➡️ Importar Notas Fiscais
+> O Caminho no sistema para a importação: ➡️ Estoque / Compras ➡️ Importar Notas Fiscais
 
 Após a extração irá subir os xmls para o sistema para a importação, conforme ilustração abaixo:
 
@@ -34,10 +34,12 @@ Após a extração irá subir os xmls para o sistema para a importação, confor
 
 Na parte inferior esquerda há as opções selecionáveis para que faça a importação conforme as notas específicas:
 
-- NFe - Notas Fiscais Eletrônicas
-- CTe - Conhecimento de Transporte Eletrônicos
+- ```NFe - Notas Fiscais Eletrônicas```
+- ```CTe - Conhecimento de Transporte Eletrônicos```
 
-Enfim, selecione o botão **IMPORTAR** e fechar!
+E por fim, selecione o botão **IMPORTAR**, aguarde o processo e feche o painel!
+
+Essas extrações são as notas contra a ferro que teoricamente irão ser entregues conforme já citado no 1.1,  e ficaram disponíveis para consulta no sistema até que entrem as notas das mercadorias.
 
 #### 1.2 - BLING
 
@@ -53,6 +55,15 @@ São realizadas conferências diárias do sequencial das notas para não ocorrer
 **Conferência**
 
 Para assegurar que as notas estão sendo emitidas com os dados tributários corretos, será necessário fazer um filtro nas notas do dia e consultar se NCM, CST e CFOP estão de acordo com o produto vendido.
+
+**Notas Canceladas**
+
+Acho importante também realizar a consulta no Portal NFe se houve de fato o cancelamento das notas canceladas no BLING.
+
+> ![image](https://github.com/user-attachments/assets/b512990a-e675-43d1-917b-e5eab26f5d97)
+
+
+> O Caminho no sistema para a importação: ➡️ Vendas / Notas Fiscais de saída ➡️ Importar Notas Fiscais
 
 #### 1.3 - MERCADO LIVRE (FULL)
 
