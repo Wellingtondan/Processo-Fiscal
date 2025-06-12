@@ -20,11 +20,16 @@ Pela manhã são realizadas as consultas completas das empresas ```FERRO STORE L
 
 O Caminho no sistema para a importação: ➡️ Estoque / Compras ➡️ Importar Notas Fiscais
 
-Após 
+Após a extração irá subir os xmls para o sistema para a importação, conforme ilustração abaixo:
 
 > ![image](https://github.com/user-attachments/assets/e9162d2a-f2a8-444b-bc00-f9da0ce70887)
 
+Na parte inferior esquerda há as opções selecionáveis para que faça a importação conforme as notas específicas:
 
+- NFe - Notas Fiscais Eletrônicas
+- CTe - Conhecimento de Transporte Eletrônicos
+
+Enfim, selecione o botão **IMPORTAR** e fechar!
 
 #### 1.2 - BLING
 
