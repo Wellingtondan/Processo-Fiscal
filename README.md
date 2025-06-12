@@ -14,6 +14,8 @@ As notas que não tiveram entradas de acordo com a entrega do fornecedor, precis
 
 Conforme a chegada da mercadoria e entrada ao sistema, as notas vão sendo liberadas nas consultas de notas pendentes de recebimento e deixando de aparecer no painel.
 
+##### 1.1.1 - Importação QIVE
+
 #### 1.2 - BLING
 
 Abaixo são todas as plataformas de vendas do e-commerce nas quais as notas são emitidas pelo Bling:
