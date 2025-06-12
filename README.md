@@ -71,6 +71,8 @@ Acho importante também realizar a consulta no Portal NFe se houve de fato o can
 
 As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixa os xmls e importa ao sistema Prisma.
 
+As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já saindo da Ferro para o cliente. E em contra partida o ML emite uma nota de retorno para o estoque da Ferro para que compute essa saída Nat.Operação - Outras Entradas - Retorno Simbólico de Deposito Temporário.
+
 
 ### 2. Empresas
 
