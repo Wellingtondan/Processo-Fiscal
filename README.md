@@ -56,14 +56,16 @@ São realizadas conferências diárias do sequencial das notas para não ocorrer
 
 Para assegurar que as notas estão sendo emitidas com os dados tributários corretos, será necessário fazer um filtro nas notas do dia e consultar se NCM, CST e CFOP estão de acordo com o produto vendido.
 
+> ![image](https://github.com/user-attachments/assets/ec790430-5fbd-4fa9-a11f-32a97fa31f07)
+
+
 **Notas Canceladas**
 
 Acho importante também realizar a consulta no Portal NFe se houve de fato o cancelamento das notas canceladas no BLING.
 
 > ![image](https://github.com/user-attachments/assets/b512990a-e675-43d1-917b-e5eab26f5d97)
 
-
-> O Caminho no sistema para a importação: ➡️ Vendas / Notas Fiscais de saída ➡️ Importar Notas Fiscais
+> Caminho no site: ➡️ Vendas / Notas Fiscais de saída ➡️ Importar Notas Fiscais
 
 #### 1.3 - MERCADO LIVRE (FULL)
 
