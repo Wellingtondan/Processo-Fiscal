@@ -32,7 +32,7 @@ Após a extração irá subir os xmls para o sistema para a importação, confor
 
 > ![image](https://github.com/user-attachments/assets/e9162d2a-f2a8-444b-bc00-f9da0ce70887)
 
-Na parte inferior esquerda há as opções selecionáveis para que faça a importação conforme as notas específicas:
+Na parte inferior esquerda há opções selecionáveis para que faça a importação conforme as notas específicas:
 
 - ```NFe - Notas Fiscais Eletrônicas```
 - ```CTe - Conhecimento de Transporte Eletrônicos```
