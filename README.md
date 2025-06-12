@@ -14,7 +14,10 @@ As notas que não tiveram entradas de acordo com a entrega do fornecedor, precis
 
 Conforme a chegada da mercadoria e entrada ao sistema, as notas vão sendo liberadas nas consultas de notas pendentes de recebimento e deixando de aparecer no painel.
 
-##### 1.1.1 - Importação QIVE
+##### 1.1.1 - Importação Prisma
+
+Pela manhã são realizadas as consultas completas das empresas ```FERRO STORE LTDA -CD, FERRO STORE LTDA-FILIAL e FERRO INDUSTRIA ANTIGA``` da NF-e e CT-e e são extraídos os xmls e salvas no caminho ```Y:\Publico\Fiscal\XML```
+
 
 #### 1.2 - BLING
 
