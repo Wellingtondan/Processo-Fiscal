@@ -131,9 +131,14 @@ A decisão de onde será destinada a mercadoria fica por conta do Gerente Carlin
 
 ### 3. Sistemas internos
 
-> Prisma
+**Prisma**
 
-> Super Soft
+> ![image](https://github.com/user-attachments/assets/64a60b8b-92a9-4529-90c7-17b9e668baae)
+
+**Super Soft**
+
+> ![image](https://github.com/user-attachments/assets/251f3a11-9237-4d73-9894-ace1b8a83708)
+
 
 
 ### 4. Portaria | Ricms SP
