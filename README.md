@@ -73,6 +73,13 @@ As notas são emitidas pela própria plataforma e o departamento fiscal apenas b
 
 As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já saindo da Ferro para o cliente. E em contra partida o ML emite uma nota de retorno para o estoque da Ferro para que compute essa saída Nat.Operação - Outras Entradas - Retorno Simbólico de Deposito Temporário.
 
+#### 1.4 - Série da NF-e
+
+> **SÉRIE 001** - Utilizada pela Ferro Industria (Antiga) em suas emissões
+
+> **SÉRIE 002** - Utilizada atualmente pela Ferro Ferramantas (E-commerce - ML | TIK TOK ! LEROY MERLIN | FERRO STORE)
+
+> **SÉRIE 003** - Utilizada na emissão das notas pelo Mercado Livre Full (E.bazar)
 
 ### 2. Empresas
 
