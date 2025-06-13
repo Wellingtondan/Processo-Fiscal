@@ -89,7 +89,7 @@ As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já sa
 
 ➡️Ferro indústria ```(Venda)```
 
-➡️Ferro Ferramentas ```(E-commerce para abastecer o estoque)```
+➡️Ferro Ferramentas ```(E-commerce para abastecer o estoque, sendo apenas para realizar a venda efetivada pelas plataformas fazendo a entrada no sistema e a saída (Venda) para o cliente)```
 
 ➡️Ferro Store - Filial ```(Transferência) ```
 
