@@ -119,8 +119,11 @@ As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já sa
 
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)**
 
-Ferro Store (CD) 
+➡️Ferro Store (CD) ```(Venda)``` 
 
+➡️Ferro Store - Filial ```(Venda)```
+
+A decisão de onde será destinada a mercadoria fica por conta do Gerente Carlinhos da Ferro Store - Filial (Loja), pois ainda existem pedidos de compras que estão sendo faturados pela Empresa Antiga.
 
 ### 3. Sistemas internos
 
