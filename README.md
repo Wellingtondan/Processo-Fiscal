@@ -172,3 +172,13 @@ Exemplo de cálculo:
 
 **Valor de ICMS ST:** 278,85 - 156,55 = 122,30
 
+Importação das notas do Mercado Livre FULL
+
+> ![image](https://github.com/user-attachments/assets/525ec123-7a1e-4621-b42c-70cbd3ebfa41)
+
+Nota de venda (Saída) - Familia financeira - 513 
+
+> ![image](https://github.com/user-attachments/assets/e8379995-b61b-4326-abc6-1d24d20b6dee)
+
+
+
