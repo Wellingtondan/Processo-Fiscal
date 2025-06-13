@@ -183,5 +183,36 @@ Nota de venda (Saída) - Familia financeira - 513
 
 A nota emitida pelo Mercado Livre Full de Outras Entradas - Retorno Simbólico de Depósito Temporário, é para entrada ao estoque da Ferro Ferramentas - E-commerce para que seja efetuada a venda on line, e a nota emitida de Venda para o cliente é a saída, o qual é necessário realizar o desdobramento com a forma de pagamento 186 - Mercado Livre.
 
+Sugestão: Quando tiver uma operação interestadual de compra de mercadoria onde não há convênio/protocolo entre os estados e fica a cargo da Ferro realizar o recolhimento ST, seria interessante amarrar em um campo o percentual MVA a se utilizar na operação, no caso se ajustado ou original nos casos onde a carga tributária do estado remetente seja a mesma do destinatário.
+
+E para que fique ainda mais eficiente, trazer as portaria mais utilizadas na indústria com NCM, CEST e MVA para deixar programado ao sistema e todas as compras que tiverem esse tipo de operação com substiruição tributária em SP já ser realizado o cálculo do valor a recolher via DARE.
+
+Como fazer isso?
+
+Se tiver na seção de alíquotas amparadas com percentual de 12%, Artigo 54
+
+V - implementos e tratores agrícolas, máquinas, aparelhos e equipamentos industriais e produtos da indústria de processamento eletrônico de dados, neste último caso desde que não abrangidos pelo inciso III do artigo 53, observadas a relação dos produtos alcançados e a disciplina de controle estabelecidas pelo Poder Executivo;
+
+NOTA - V. RESOLUÇÃO SF-31/08, de 30-06-2008 [(DOE 02-07-2008)](https://legislacao.fazenda.sp.gov.br/Paginas/resf312008.aspx). Aprova a relação de produtos da indústria de processamento eletrônico de dados de que trata o inciso V do artigo 54 do Regulamento do ICMS e dá outras providências.
+
+NOTA - V. RESOLUÇÃO SF-04/98, de 16-01-1998 [(DOE 20-01-1998)](https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx). Aprova a relação de máquinas, aparelhos e equipamentos industrias, implementos e tratores agrícolas e produtos da indústria de processamento eletrônico de dados de que trata o item 7 do § 1° do artigo 54 do Regulamento do ICMS.
+
+NOTA - V. DECISÃO NORMATIVA CAT-03/13, de 17-12-2013 (DOE 18-12-2013). ICMS - Operações com máquinas, aparelhos e equipamentos industriais e máquinas e implementos agrícolas.
+
+
+
+Alíquotas 18%
+
+Ferramentas
+
+https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx
+
+Auto Peças
+
+https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-16-de-2023.aspx
+
+
+https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
+
 
 
