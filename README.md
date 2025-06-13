@@ -81,7 +81,7 @@ As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já sa
 
 > **SÉRIE 003** - Utilizada na emissão das notas pelo Mercado Livre Full (E.bazar)
 
-### 2. Empresas
+### 2. Quais são as empresas da Ferro?
 
 ☑️**FERRO STORE LTDA - CNPJ 59.217.616/0001-61 (CD)** 
 
