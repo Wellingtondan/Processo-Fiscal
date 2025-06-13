@@ -85,7 +85,7 @@ As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já sa
 
 ☑️**FERRO STORE LTDA - CNPJ 59.217.616/0001-61 (CD)** 
 
-**Emite Nota Fiscal**
+- **Emite Nota Fiscal**
 
 ➡️Ferro indústria ```(Venda)```
 
@@ -99,7 +99,7 @@ Para abastecer o estoque, sendo apenas para realizar a venda efetivada em uma da
 
 ☑️**FERRO STORE LTDA - CNPJ 59.217.616/0002-42 (FERRO LOJA - FILIAL)**
 
-**Emite Nota Fiscal**
+- **Emite Nota Fiscal**
 
 ➡️Faturamento para todos os clientes balcão dentro da cidade
 
@@ -111,7 +111,7 @@ Para abastecer o estoque, sendo apenas para realizar a venda efetivada em uma da
 
 ☑️**FERRO FERRAMENTAS - CNPJ 25.003.733/0001-00 (E-COMMERCE)**
 
-**Emite Nota Fiscal**
+- **Emite Nota Fiscal**
 
 ➡️```Faturamento para fora do estado ou mercado interno (SP)```
 
@@ -121,6 +121,8 @@ Para abastecer o estoque, sendo apenas para realizar a venda efetivada em uma da
 
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)**
 
+- **Emite Nota Fiscal**
+
 ➡️Ferro Store (CD) ```(Venda)``` 
 
 ➡️Ferro Store - Filial ```(Venda)```
@@ -129,9 +131,9 @@ A decisão de onde será destinada a mercadoria fica por conta do Gerente Carlin
 
 ### 3. Sistemas internos
 
-Prisma
+> Prisma
 
-Super Soft
+> Super Soft
 
 
 ### 4. Portaria | Ricms SP
