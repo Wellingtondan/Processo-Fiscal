@@ -119,6 +119,8 @@ Para abastecer o estoque, sendo apenas para realizar a venda efetivada em uma da
 
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0001-11 (FERRO INDUSTRIA)**
 
+➡️Ferro Store - Filial ```(Remessa p/conserto)```
+
 ☑️**FERRO EQUIPAMENTO INDUSTRIAL - CNPJ 15.797.607/0002-00 (FERRO LOJA ANTIGA)**
 
 - **Emite Nota Fiscal**
