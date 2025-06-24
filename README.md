@@ -231,4 +231,14 @@ https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-16-de-2023.aspx
 https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
 
 
+| Sigla | Legenda |
+|---------|----------|
+| AC | Aviso de compra |
+| AF | Ativo fixo |
+| AT | Aviso de transferência |
+| MC | Mercadoria de uso e consumo |
+| MR | Mercadoria de Revenda |
+| MT | Material de terceiro |
+| PC | Pedido de compra |
+| SV | Nota de Serviço |
 
