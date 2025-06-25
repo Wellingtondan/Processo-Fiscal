@@ -242,3 +242,6 @@ https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
 | PC | Pedido de compra |
 | SV | Nota de Serviço |
 
+### Pedidos devolvidos por cliente - Ferro Store (Devolução)
+
+> ![image](https://github.com/user-attachments/assets/df934d83-c6ab-498d-813c-4c44fa46a31b)
