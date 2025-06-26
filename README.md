@@ -363,4 +363,40 @@ ICMS-ST informado em “Outras Despesas Acessórias” (vOutro), conforme regras
 ```
 
 
-#### 🧾 Devolução **com ICMS-ST**
+### 📄 Resposta à Consulta Tributária 30001/2024 (SP)
+
+**Assunto:** Devolução de mercadoria – Substituição tributária (ICMS-ST) – Documento fiscal – Direito ao crédito
+
+> 🔗 [Resposta à consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC30001_2024.aspx)
+
+---
+
+#### ✅ Pontos principais:
+
+**🔹 Competência Interestadual**  
+O Estado de São Paulo **não regula** a forma de emissão de NF-e por contribuintes de outros Estados, como o Paraná. Portanto, **não opina** sobre a vedação do destaque do ICMS-ST na devolução conforme regras locais.
+
+**🔹 Obrigatoriedade do Destaque (SP)**  
+Para que o contribuinte paulista tenha **direito ao crédito do ICMS**, o imposto deve estar **destacado em documento fiscal hábil**, mesmo quando se trata de devolução de mercadoria sujeita à substituição tributária.
+
+**🔹 ICMS Próprio e ST na Devolução**
+
+- O **ICMS próprio** deve ser **destacado nos campos próprios** da NF-e.
+- O **ICMS-ST** **não é destacado**, mas deve ser:
+  - Informado no campo **"Informações Adicionais de Interesse do Fisco"** (`infAdFisco`), com **base de cálculo e valor**.
+  - Lançado no campo **`vOutro` (Outras Despesas Acessórias)** para que o **valor total da NF-e seja validado** pelo sistema.
+
+---
+
+#### 📚 Fundamento Legal:
+
+- **RICMS/SP**:  
+  - Art. 127, §5º  
+  - Art. 274, §3º  
+  - Art. 57  
+  - Art. 59, §1º, item 2
+
+- **Convênio ICMS 54/2000**  
+- **Decisão Normativa CAT 04/2010**
+
+---
