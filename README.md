@@ -187,50 +187,52 @@ Formas utilizadas para identificação da operação interna:
 
 ### 5. Portaria | Ricms SP
 
-5.1 Portaria
+5.1 Portarias
 
-📑**Ferramentas**:
+📑**Portarias**:
 
---------
+> ➡️[Acesse - Ferramentas](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
-[Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
+> ➡️[Acesse - Auto Peças](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-16-de-2023.aspx)
+
+> ➡️[Acesse - Materiais Elétricos](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-86-de-2024.aspx)
 
 5.2 RICMS
 
 📑**Alíquotas**: 
 
-[SEÇÃO II - DA ALÍQUOTA](https://legislacao.fazenda.sp.gov.br/Paginas/art052.aspx)
+> ➡️[SEÇÃO II - DA ALÍQUOTA](https://legislacao.fazenda.sp.gov.br/Paginas/art052.aspx)
 
 --------
 
 📑**Reduções**: 
 
-> [Artigo 65 (CARROCERIAS SOBRE CHASSI, VAGÕES FERROVIÁRIOS DE CARGA, CARROCERIAS PARA VEÍCULOS AUTOMÓVEIS, REBOQUES E SEMIRREBOQUES)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art065.aspx)
+> ➡️[Artigo 65 (CARROCERIAS SOBRE CHASSI, VAGÕES FERROVIÁRIOS DE CARGA, CARROCERIAS PARA VEÍCULOS AUTOMÓVEIS, REBOQUES E SEMIRREBOQUES)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art065.aspx)
 
 | Redução | Alíquota | Carga tributária |
 |-------|-----------|------------|
 | 66,67%	| 18,00%	| 12,00% |
 
-> [Artigo 12 (MÁQUINAS INDUSTRIAIS E IMPLEMENTOS AGRÍCOLAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art012.aspx) 
+> ➡️[Artigo 12 (MÁQUINAS INDUSTRIAIS E IMPLEMENTOS AGRÍCOLAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art012.aspx) 
 
 | Redução | Alíquota | Carga tributária |
 |-------|-----------|------------|
 | 48,89%	| 18,00%	| 8,80% |
 | 46,67%	| 12,00%	| 5,60% |
 
-> [Artigo 36 (AUTOPEÇAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art036.aspx)
+> ➡️[Artigo 36 (AUTOPEÇAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art036.aspx)
 
 | Redução | Alíquota | Carga tributária |
 |-------|-----------|------------|
 | 66,67%	| 18,00%	| 12,00% |
 
-> [Artigo 30 (PRODUTOS DE COURO, SAPATOS, BOLSAS, CINTOS, CARTEIRAS E OUTROS ACESSÓRIOS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art030.aspx)
+> ➡️[Artigo 30 (PRODUTOS DE COURO, SAPATOS, BOLSAS, CINTOS, CARTEIRAS E OUTROS ACESSÓRIOS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art030.aspx)
 
 | Redução | Alíquota | Carga tributária |
 |-------|-----------|------------|
 | 66,67%	| 18,00%	| 12,00% |
 
-> [Artigo 52 (PRODUTOS TÊXTEIS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art052.aspx)
+> ➡️[Artigo 52 (PRODUTOS TÊXTEIS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art052.aspx)
 
 | Redução | Alíquota | Carga tributária |
 |-------|-----------|------------|
@@ -238,14 +240,23 @@ Formas utilizadas para identificação da operação interna:
 
 --------
 
-📑**cONVÊNIO E PROTOCOLO**: 
+📑**Convênio e Protocolo**: 
 
-[ANEXO VI - SUBSTITUIÇÃO TRIBUTÁRIA EM OPERAÇÕES OU PRESTAÇÕES INTERESTADUAIS - ESTADOS SIGNATÁRIOS DE ACORDOS](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
+> ➡️[ANEXO VI - SUBSTITUIÇÃO TRIBUTÁRIA EM OPERAÇÕES OU PRESTAÇÕES INTERESTADUAIS - ESTADOS SIGNATÁRIOS DE ACORDOS](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
 
 --------
 
 📑**Isenção**: 
 
+> ➡️[ANEXO I - ISENÇÕES](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#an1art001.aspx)
+
+---------
+
+📑**Partilha ICMS - Consumidor Final Interestadual**: 
+
+> ➡️[Partilha ICMS](https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV093_15)
+
+> Para ocorrer a divisão de ICMS é obrigatório que duas condições estejam presentes. A primeira é a operação ser interestadual, ou seja: o remetente da mercadoria está em um estado e o destinatário em outro. Já a segunda condição obrigatória é a mercadoria se destinar ao consumo final. 
 
 ---------
 
