@@ -41,6 +41,8 @@ E por fim, selecione o botão **IMPORTAR**, aguarde o processo e feche o painel!
 
 Essas extrações são as notas contra a ferro que teoricamente irão ser entregues conforme já citado no 1.1,  e ficaram disponíveis para consulta no sistema até que entrem as notas das mercadorias.
 
+--------
+
 #### 1.2 - BLING
 
 Abaixo são todas as plataformas de vendas do e-commerce nas quais as notas são emitidas pelo Bling:
@@ -67,11 +69,25 @@ Acho importante também realizar a consulta no Portal NFe se houve de fato o can
 
 > Caminho no site: ➡️ Vendas / Notas Fiscais de saída ➡️ Importar Notas Fiscais
 
+--------
+
 #### 1.3 - MERCADO LIVRE (FULL)
 
 As notas são emitidas pela própria plataforma e o departamento fiscal apenas baixa os xmls e importa ao sistema Prisma.
 
 As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já saindo da Ferro para o cliente. E em contra partida o ML emite uma nota de retorno para o estoque da Ferro para que compute essa saída Nat.Operação - Outras Entradas - Retorno Simbólico de Deposito Temporário.
+
+**Importação das notas do Mercado Livre FULL**
+
+> ![image](https://github.com/user-attachments/assets/525ec123-7a1e-4621-b42c-70cbd3ebfa41)
+
+Nota de venda (Saída) - Familia financeira - 513 
+
+> ![image](https://github.com/user-attachments/assets/e8379995-b61b-4326-abc6-1d24d20b6dee)
+
+A nota emitida pelo Mercado Livre Full de Outras Entradas - Retorno Simbólico de Depósito Temporário, é para entrada ao estoque da Ferro Ferramentas - E-commerce para que seja efetuada a venda on line, e a nota emitida de Venda para o cliente é a saída, o qual é necessário realizar o desdobramento com a forma de pagamento 186 - Mercado Livre.
+
+--------
 
 #### 1.4 - Série da NF-e
 
@@ -80,6 +96,8 @@ As vendas do Mercado Livre Full são emitidas as notas diretamente do ML, já sa
 > **SÉRIE 002** - Utilizada atualmente pela Ferro Ferramantas (E-commerce - ML | TIK TOK ! LEROY MERLIN | FERRO STORE)
 
 > **SÉRIE 003** - Utilizada na emissão das notas pelo Mercado Livre Full (E.bazar)
+
+--------
 
 ### 2. Quais são as empresas da Ferro? E suas operações?
 
@@ -135,6 +153,8 @@ Para abastecer o estoque, sendo apenas para realizar a venda efetivada em uma da
 
 A decisão de onde será destinada a mercadoria fica por conta do Gerente Carlinhos da Ferro Store - Filial (Loja), pois ainda existem pedidos de compras que estão sendo faturados pela Empresa Antiga.
 
+--------
+
 ### 3. Sistemas internos
 
 **Prisma**
@@ -146,28 +166,44 @@ A decisão de onde será destinada a mercadoria fica por conta do Gerente Carlin
 > ![image](https://github.com/user-attachments/assets/251f3a11-9237-4d73-9894-ace1b8a83708)
 
 
+### 4. Legendas
 
-### 4. Portaria | Ricms SP
+Formas utilizadas para identificação da operação interna:
 
-4.1 Portaria
+| Sigla | Legenda |
+|---------|----------|
+| AC | Aviso de compra |
+| AF | Ativo fixo |
+| AT | Aviso de transferência |
+| MC | Mercadoria de uso e consumo |
+| MR | Mercadoria de Revenda |
+| MT | Material de terceiro |
+| PC | Pedido de compra |
+| PV | Pedido de Venda |
+| SV | Nota de Serviço |
+
+
+--------
+
+### 5. Portaria | Ricms SP
+
+5.1 Portaria
 
 📑**Ferramentas**: [Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
-4.2 RICMS
+5.2 RICMS
 
 📑**Alíquotas**: 
 
+📑**Reduções**: 
 
+📑**Segmentos**: 
 
+---------
 
-Material desenvolvido para NFS-e com informações dos códigos de Serviços
+### 6. Cálculo subsituição tributária (MVA | Redução | IPI)
 
-[Acesse conteúdo](https://github.com/Wellingtondan/Codigos-de-Servicos-Tomador.git)
-
-```Acessarmos o sistema :```
-
-
-Exemplo de cálculo:
+**Exemplo de cálculo operação interestadual:**
 
 > ![image](https://github.com/user-attachments/assets/85b209f0-e225-4625-b7e4-65f80208b45d)
 
@@ -185,16 +221,6 @@ Exemplo de cálculo:
 
 **Valor de ICMS ST:** 278,85 - 156,55 = 122,30
 
-Importação das notas do Mercado Livre FULL
-
-> ![image](https://github.com/user-attachments/assets/525ec123-7a1e-4621-b42c-70cbd3ebfa41)
-
-Nota de venda (Saída) - Familia financeira - 513 
-
-> ![image](https://github.com/user-attachments/assets/e8379995-b61b-4326-abc6-1d24d20b6dee)
-
-
-A nota emitida pelo Mercado Livre Full de Outras Entradas - Retorno Simbólico de Depósito Temporário, é para entrada ao estoque da Ferro Ferramentas - E-commerce para que seja efetuada a venda on line, e a nota emitida de Venda para o cliente é a saída, o qual é necessário realizar o desdobramento com a forma de pagamento 186 - Mercado Livre.
 
 
 ### 4. Sugestões de melhorias
@@ -231,16 +257,7 @@ https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-16-de-2023.aspx
 https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
 
 
-| Sigla | Legenda |
-|---------|----------|
-| AC | Aviso de compra |
-| AF | Ativo fixo |
-| AT | Aviso de transferência |
-| MC | Mercadoria de uso e consumo |
-| MR | Mercadoria de Revenda |
-| MT | Material de terceiro |
-| PC | Pedido de compra |
-| SV | Nota de Serviço |
+
 
 ### Pedidos devolvidos por cliente - Ferro Store (Devolução)
 
