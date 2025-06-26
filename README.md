@@ -312,7 +312,27 @@ https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
 
 ### Pedidos devolvidos por cliente - Ferro Store (Devolução)
 
+Para a conferência e identificação das devoluções é preciso antes extrair o relatório de "Pedidos Devolvidos" e relacionar qual o período que gostaria de realizar a análise. Abaixo o caminho para realizar essa consulta:
+
 > ![image](https://github.com/user-attachments/assets/df934d83-c6ab-498d-813c-4c44fa46a31b)
+
+Passo a Passo:
+
+## 1. Faturamento / Vendas / Nota Fiscal / Consulta
+
+- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102) devido ser uma venda a consumidor final, Modelo 55, Série 1;
+- Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado;
+- Ainda em Faturamento / Vendas altere o modelo para 65 e informe o número da NFC-e e verifique a venda realizada ao cliente.
+
+## 2. Faturamento / Vendas / Consultar Cupom
+
+- Com o relatório extraído faça a consulta em Nº Pedido do Pedido de venda para verificar a saída feita para o cliente.
+- E também em Nº Pedido faça a consulta da Devolução para verificar se os lançamentos estão de acordo com a nota emitida de devolução.
+
+## 3. Conferência e validação das informações
+
+- Faça a conferência dos campos próprios (ICMS) se estão em conformidade, dados do cliente, Total da nota, itens (CP), quantidade, Valor, dados fiscais (NCM, CFOP, CST, PIS/COFINS).
+- Validar se a Nota de devolução conforme Pedido de devolução (Nº Devolução).
 
 ### Transferência entre estabelecimentos da mesma empresa
 
