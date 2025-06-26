@@ -348,8 +348,8 @@ Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direi
    - IN RFB 1.911/2019
 
 | TIPO   | CFOP | CST PIS/COFINS | OBSERVAÇÃO |
-| Entrada |	5.411 | 6411	| 49	| Devolução sem ICMS-ST; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
-
+| Saída |	5.411 - 6.411	| 49	| Devolução sem ICMS-ST; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
+| Entrada | 
 
 > Exemplo para campo Informações Adicionais (infAdFisco):
 
