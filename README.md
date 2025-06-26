@@ -245,3 +245,32 @@ https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
 ### Pedidos devolvidos por cliente - Ferro Store (Devolução)
 
 > ![image](https://github.com/user-attachments/assets/df934d83-c6ab-498d-813c-4c44fa46a31b)
+
+### Transferência entre estabelecimentos da mesma empresa
+
+- Ferro STORE (LOJA) ↔️ Ferro STORE (CD)
+  
+Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direito a crédito de PIS/COFINS, uma vez que se trata de movimentação de estoque entre estabelecimentos da mesma empresa, sem envolvimento financeiro.
+
+**Dados**
+
+- **CFOP:** 1.152 (Entrada)
+
+- **CST PIS/COFINS:** 70 – Operação sem direito a crédito
+
+- **Crédito de PIS/COFINS:** Não se aplica
+
+- **Justificativa:** Operação de transferência de mercadorias entre estabelecimentos do mesmo titular, sem geração de receita ou valor financeiro. Portanto, não gera direito a crédito de PIS/COFINS, conforme previsto na legislação das contribuições.
+
+- **Dados para emissão de nota com a base legal:** Operação de simples transferência entre estabelecimentos da mesma empresa, sem geração de receita, conforme arts. 3º, §2º, II da Lei 10.637/2002 (PIS) e Lei 10.833/2003 (COFINS), art. 3º, §1º da Lei 9.718/1998 e arts. 166 e 167 da IN RFB 1.911/2019. CST 70 – operação sem direito a crédito.
+
+   - Nota fiscal referente à transferência de mercadoria entre filiais da mesma empresa, sem fins comerciais. Operação sem direito a crédito de PIS/COFINS.
+ 
+
+| TIPO   | CFOP | CST PIS/COFINS | OBSERVAÇÃO |
+|---------|----------|---------|----------|
+| Entrada | 1.152 | 70 | Operação sem direiro a crédito |
+| Saída | 5.152 | 04 | Operação sem incidência (Não tributada) |
+
+
+
