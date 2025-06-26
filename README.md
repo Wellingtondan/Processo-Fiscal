@@ -189,7 +189,9 @@ Formas utilizadas para identificação da operação interna:
 
 5.1 Portaria
 
-📑**Ferramentas**: [Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
+📑**Ferramentas**:
+
+[Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
 5.2 RICMS
 
@@ -199,9 +201,46 @@ Formas utilizadas para identificação da operação interna:
 
 📑**Reduções**: 
 
+> [Artigo 65 (CARROCERIAS SOBRE CHASSI, VAGÕES FERROVIÁRIOS DE CARGA, CARROCERIAS PARA VEÍCULOS AUTOMÓVEIS, REBOQUES E SEMIRREBOQUES)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art065.aspx)
+
+| Redução | Alíquota | Carga tributária |
+|-------|-----------|------------|
+| 66,67%	| 18,00%	| 12,00% |
+
+> [Artigo 12 (MÁQUINAS INDUSTRIAIS E IMPLEMENTOS AGRÍCOLAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art012.aspx) 
+
+| Redução | Alíquota | Carga tributária |
+|-------|-----------|------------|
+| 48,89%	| 18,00%	| 8,80% |
+| 46,67%	| 12,00%	| 5,60% |
+
+> [Artigo 36 (AUTOPEÇAS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art036.aspx)
+
+| Redução | Alíquota | Carga tributária |
+|-------|-----------|------------|
+| 66,67%	| 18,00%	| 12,00% |
+
+> [Artigo 30 (PRODUTOS DE COURO, SAPATOS, BOLSAS, CINTOS, CARTEIRAS E OUTROS ACESSÓRIOS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art030.aspx)
+
+| Redução | Alíquota | Carga tributária |
+|-------|-----------|------------|
+| 66,67%	| 18,00%	| 12,00% |
+
+> [Artigo 52 (PRODUTOS TÊXTEIS)](https://legislacao.fazenda.sp.gov.br/Paginas/an2art052.aspx)
+
+| Redução | Alíquota | Carga tributária |
+|-------|-----------|------------|
+| 66,67%	| 18,00%	| 12,00% |
+
+
+
 📑**cONVÊNIO E PROTOCOLO**: 
 
-[ANEXO VI](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
+[ANEXO VI - SUBSTITUIÇÃO TRIBUTÁRIA EM OPERAÇÕES OU PRESTAÇÕES INTERESTADUAIS - ESTADOS SIGNATÁRIOS DE ACORDOS](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
+
+📑**Isenção**: 
+
+
 ---------
 
 ### 6. Cálculo subsituição tributária (MVA | Redução | IPI)
