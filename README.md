@@ -244,6 +244,8 @@ Formas utilizadas para identificação da operação interna:
 
 > ➡️[ANEXO VI - SUBSTITUIÇÃO TRIBUTÁRIA EM OPERAÇÕES OU PRESTAÇÕES INTERESTADUAIS - ESTADOS SIGNATÁRIOS DE ACORDOS](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
 
+> ➡️[Convênio 142/18 - Regime de substituição tributária](https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18)
+
 --------
 
 📑**Isenção**: 
@@ -259,6 +261,8 @@ Formas utilizadas para identificação da operação interna:
 > Para ocorrer a divisão de ICMS é obrigatório que duas condições estejam presentes. A primeira é a operação ser interestadual, ou seja: o remetente da mercadoria está em um estado e o destinatário em outro. Já a segunda condição obrigatória é a mercadoria se destinar ao consumo final. 
 
 ---------
+
+5.3 Resposta à consulta
 
 ### 6. Cálculo subsituição tributária (MVA | Redução | IPI)
 
