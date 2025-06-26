@@ -306,8 +306,9 @@ Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direi
    - IN RFB 1.911/2019
 
 | TIPO   | CFOP | CST PIS/COFINS | OBSERVAÇÃO |
-| Entrada |	5.102	| 000	| Devolução sem ICMS-ST; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
-
+|---------|----------|---------|----------|
+| Saída |	5.102 - 6.102	| 49	| Devolução **sem ICMS-ST**; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
+| Entrada | 1.102 - 2.102 | 70 | Recebimento da devolução sem direito a crédito de PIS/COFINS, pois não houve geração de receita |
 
 ### 2. Devolução com Substituição Tributária (ST)
 
@@ -348,8 +349,9 @@ Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direi
    - IN RFB 1.911/2019
 
 | TIPO   | CFOP | CST PIS/COFINS | OBSERVAÇÃO |
-| Saída |	5.411 - 6.411	| 49	| Devolução sem ICMS-ST; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
-| Entrada | 
+|---------|----------|---------|----------|
+| Saída |	5.411 - 6.411	| 49	| Devolução com ICMS-ST; ICMS próprio destacado no campo próprio; valor do ICMS-ST informado em “Outras Despesas Acessórias” e detalhado em “Informações Adicionais”; sem crédito de PIS/COFINS |
+| Entrada | 1.411 - 2.411 | 70 | Recebimento da devolução com ICMS-ST; operação sem direito a crédito de PIS/COFINS |
 
 > Exemplo para campo Informações Adicionais (infAdFisco):
 
@@ -359,3 +361,6 @@ Base de cálculo do ICMS-ST: R$ 5.000,00. Valor do ICMS-ST: R$ 850,00.
 Informações conforme art. 127, §5º e art. 274, §3º do RICMS/SP e cláusula primeira do Convênio ICMS 54/2000.
 ICMS-ST informado em “Outras Despesas Acessórias” (vOutro), conforme regras da NF-e.
 ```
+
+
+#### 🧾 Devolução **com ICMS-ST**
