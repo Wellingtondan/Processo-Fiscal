@@ -320,7 +320,7 @@ Passo a Passo:
 
 ## 1. Faturamento / Vendas / Nota Fiscal / Consulta
 
-- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102) devido ser uma venda a consumidor final, Modelo 55, Série 1.
+- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102 | 1.411) devido ser uma venda a consumidor final (Tributada(00 | 20 | 40) ou ST Recolhida anteriormente - 60), Modelo 55, Série 1.
 - Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado.
 - Ainda em Faturamento / Vendas altere o modelo para 65 e informe o número da NFC-e e verifique a venda realizada ao cliente.
 
