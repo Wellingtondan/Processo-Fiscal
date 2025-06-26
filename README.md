@@ -191,6 +191,8 @@ Formas utilizadas para identificação da operação interna:
 
 📑**Ferramentas**:
 
+--------
+
 [Acesse](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx)
 
 5.2 RICMS
@@ -198,6 +200,8 @@ Formas utilizadas para identificação da operação interna:
 📑**Alíquotas**: 
 
 [SEÇÃO II - DA ALÍQUOTA](https://legislacao.fazenda.sp.gov.br/Paginas/art052.aspx)
+
+--------
 
 📑**Reduções**: 
 
@@ -232,11 +236,13 @@ Formas utilizadas para identificação da operação interna:
 |-------|-----------|------------|
 | 66,67%	| 18,00%	| 12,00% |
 
-
+--------
 
 📑**cONVÊNIO E PROTOCOLO**: 
 
 [ANEXO VI - SUBSTITUIÇÃO TRIBUTÁRIA EM OPERAÇÕES OU PRESTAÇÕES INTERESTADUAIS - ESTADOS SIGNATÁRIOS DE ACORDOS](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
+
+--------
 
 📑**Isenção**: 
 
