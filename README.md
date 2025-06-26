@@ -195,10 +195,13 @@ Formas utilizadas para identificação da operação interna:
 
 📑**Alíquotas**: 
 
+[SEÇÃO II - DA ALÍQUOTA](https://legislacao.fazenda.sp.gov.br/Paginas/art052.aspx)
+
 📑**Reduções**: 
 
-📑**Segmentos**: 
+📑**cONVÊNIO E PROTOCOLO**: 
 
+[ANEXO VI](https://legislacao.fazenda.sp.gov.br/Paginas/textoricms.aspx#l6an6.aspx)
 ---------
 
 ### 6. Cálculo subsituição tributária (MVA | Redução | IPI)
@@ -229,61 +232,13 @@ Quando tiver uma operação interestadual de compra de mercadoria onde não há 
 
 E para que fique ainda mais eficiente, trazer as portaria mais utilizadas na indústria com NCM, CEST e MVA para deixar programado ao sistema e todas as compras que tiverem esse tipo de operação com substiruição tributária em SP já ser realizado o cálculo do valor a recolher via DARE.
 
-Como fazer isso?
+**Como fazer isso?**
 
-> Se tiver na seção de alíquotas amparadas com percentual de 12% - Artigo 54, a aplicação da MVA será considerada como o ORIGINAl devido a carga tributária da operação interestadual ser a mesma da interna:
+> Se tiver na seção de alíquotas amparadas com percentual de 12% - Artigo 54, a aplicação da MVA será considerada como o ORIGINAl devido a carga tributária da operação interestadual ser a mesma da interna.
 
-V - implementos e tratores agrícolas, máquinas, aparelhos e equipamentos industriais e produtos da indústria de processamento eletrônico de dados, neste último caso desde que não abrangidos pelo inciso III do artigo 53, observadas a relação dos produtos alcançados e a disciplina de controle estabelecidas pelo Poder Executivo;
+> E nos casos onde a carga tributária interna seja maior que a da operação interestadual, será necessário o ajuste sendo considerada a MVA Ajustada.
 
-NOTA - V. RESOLUÇÃO SF-31/08, de 30-06-2008 [(DOE 02-07-2008)](https://legislacao.fazenda.sp.gov.br/Paginas/resf312008.aspx). Aprova a relação de produtos da indústria de processamento eletrônico de dados de que trata o inciso V do artigo 54 do Regulamento do ICMS e dá outras providências.
-
-NOTA - V. RESOLUÇÃO SF-04/98, de 16-01-1998 [(DOE 20-01-1998)](https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx). Aprova a relação de máquinas, aparelhos e equipamentos industrias, implementos e tratores agrícolas e produtos da indústria de processamento eletrônico de dados de que trata o item 7 do § 1° do artigo 54 do Regulamento do ICMS.
-
-NOTA - V. DECISÃO NORMATIVA CAT-03/13, de 17-12-2013 (DOE 18-12-2013). ICMS - Operações com máquinas, aparelhos e equipamentos industriais e máquinas e implementos agrícolas.
-
-VI - óleo diesel e etanol hidratado combustível - EHC (Lei n° 6.374/89, art. 34, § 1º, item 10, na redação da Lei 11.593/03, artigo 1º, I) (Redação dada ao inciso pelo Decreto 59.997, de 20-12-2013, DOE 21-12-2013; em vigor a partir de 01-03-2014)
-
-NOTA - V. INFORMATIVO SFP (DOE 30-06-2023). Alíquota do ICMS nas operações internas com etanol hidratado combustível (aplicável a partir de 1º/07/2023).​
-
-NOTA - V. INFORMATIVO SFP (DOE 18-07-2022). Alíquota do ICMS nas operações internas com etanol hidratado combustível (aplicável de 15/07/2022 a 30/06/2023). ​
-
-VII - ferros e aços não planos comuns, indicados no § 1º;
-
-VIII - produtos cerâmicos e de fibrocimento, indicados no § 2º;
-
-IX - painéis de madeira industrializada, classificados nos códigos 4410.19.00, 4411.11.00, 4411.19.00, 4411.21.00, 4411.29.00 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH;
-
-X - veículos automotores, quando tais operações sejam realizadas sob o regime jurídico-tributário da sujeição passiva por substituição com retenção do imposto relativo às operações subseqüentes, sem prejuízo do disposto no inciso seguinte;
-
-XI - independentemente de sujeição ao regime jurídico- -tributário da sujeição passiva por substituição, os veículos classificados nos códigos 8701.20.0200, 8701.20.9900, 8702.10.0100, 8702.10.0200, 8702.10.9900, 8704.21.0100, 8704.22.0100, 8704.23.0100, 8704.31.0100, 8704.32.0100, 8704.32.9900, 8706.00.0100 e 8706.00.0200 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH vigente em 31 de dezembro de 1996, e no código 8704.90.00 da Nomenclatura Comum do Mercosul - NCM; (Redação dada ao inciso pelo Decreto 68.2​​​24, de 19-12-2023, DOE 20-12-2023)
-
-XI - independentemente de sujeição ao regime jurídico-tributário da sujeição passiva por substituição, os veículos classificados nos códigos 8701.20.0200, 8701.20.9900, 8702.10.0100, 8702.10.0200, 8702.10.9900, 8704.21.0100, 8704.22.0100, 8704.23.0100, 8704.31.0100, 8704.32.0100, 8704.32.9900, 8706.00.0100 e 8706.00.0200 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH vigente em 31 de dezembro de 1996;
-
-XII - no fornecimento de alimentação aludido no inciso II do artigo 2º, bem como nas saídas de refeições realizadas por empresas preparadoras de refeições coletivas, excetuado, em qualquer dessas hipóteses, o fornecimento ou a saída de bebidas;
-
-XIII - segundo a Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH, no tocante às saídas:
-
-a) assentos - 9401, exceto os classificados no código 9401.20.00 (Lei 6.374/89, art. 34, § 1º, 19, "a", na redação da Lei 10.708/00, art. 3º); (Redação dada à alinea pelo Decreto 45.644, de 26-01-2001; DOE 27-01-2001; Efeitos a partir de 01-01-2001)
-
-a) assentos - 9401;
-
-b) móveis - 9403;
-
-c) suportes elásticos para camas - 9404.10;
-
-d) colchões - 9404.2;
-
-XIV - segundo a Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH, no tocante às saídas:
-
-a) chapas, folhas, películas, tiras e lâminas de plásticos - 3921.90.1 e 3921.90.90;
-
-b) papel e cartão revestidos - Impregnados - 4811.31.20.
-
-`............. entre outros anexos citados no Artigo 54.`
-
-E nos casos onde a carga tributária interna seja maior que a da operação interestadual, será necessário o ajuste sendo considerada a MVA Ajustada.
-
-Alguns cenários nas operações:
+**Alguns cenários nas operações:**
 
 | Alíquota interestadual | Alíquota Interna | Ajustado |
 |------------|------------|--------------|
