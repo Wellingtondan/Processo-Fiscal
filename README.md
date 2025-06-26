@@ -187,7 +187,7 @@ Formas utilizadas para identificação da operação interna:
 
 ### 5. Portaria | Ricms SP
 
-5.1 Portarias
+#### 5.1 Portarias
 
 📑**Portarias**:
 
@@ -197,7 +197,9 @@ Formas utilizadas para identificação da operação interna:
 
 > ➡️[Acesse - Materiais Elétricos](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-86-de-2024.aspx)
 
-5.2 RICMS
+> ➡️[Acesse - máquinas, aparelhos e equipamentos industrias](https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx)
+
+#### 5.2 RICMS
 
 📑**Alíquotas**: 
 
@@ -262,9 +264,11 @@ Formas utilizadas para identificação da operação interna:
 
 ---------
 
-5.3 Resposta à consulta
+#### 5.3 Resposta à consulta
 
-### 6. Cálculo subsituição tributária (MVA | Redução | IPI)
+---------
+
+### 6. Cálculo substituição tributária (MVA / Redução / IPI)
 
 **Exemplo de cálculo operação interestadual:**
 
@@ -284,9 +288,38 @@ Formas utilizadas para identificação da operação interna:
 
 **Valor de ICMS ST:** 278,85 - 156,55 = 122,30
 
+---------
+
+### 7. Pedidos devolvidos por cliente - Ferro Store (Devolução)
+
+Para a conferência e identificação das devoluções é preciso antes extrair o relatório de "Pedidos Devolvidos" e relacionar qual o período que gostaria de realizar a análise. Abaixo o caminho para realizar essa consulta:
+
+> ![image](https://github.com/user-attachments/assets/df934d83-c6ab-498d-813c-4c44fa46a31b)
+
+➡️**Passo a Passo:**
+
+#### 7.1. Faturamento / Vendas / Nota Fiscal / Consulta
+
+- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102 | 1.411) devido ser uma venda a consumidor final (Tributada(00 | 20 | 40) ou ST Recolhida anteriormente - 60), Modelo 55, Série 1.
+- Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado.
+- Ainda em Faturamento / Vendas altere o modelo para 65 e informe o número da NFC-e e verifique a venda realizada ao cliente.
+
+#### 7.2. Faturamento / Vendas / Consultar Cupom
+
+- Com o relatório extraído faça a consulta em Nº Pedido do Pedido de venda para verificar a saída feita para o cliente.
+- E também em Nº Pedido faça a consulta da Devolução para verificar se os lançamentos estão de acordo com a nota emitida de devolução.
+- Pedido de Venda (Sequencial do número de venda).
+- Nº Devolução é a solicitação do cliente, ou seja, o sequencial da ordem de devolução.
+
+> ![image](https://github.com/user-attachments/assets/d5cc9748-1914-4d84-bc5a-e97d211f61b5)
+
+#### 7.3. Conferência e validação das informações
+
+- Faça a conferência dos campos próprios (ICMS) se estão em conformidade, dados do cliente, Total da nota, itens (CP), quantidade, Valor, dados fiscais (NCM, CFOP, CST, PIS/COFINS).
+- Validar se a Nota de devolução esta conforme Pedido de devolução (Nº Devolução).
 
 
-### 4. Sugestões de melhorias
+### 8. Sugestões de melhorias
 
 Quando tiver uma operação interestadual de compra de mercadoria onde não há convênio/protocolo entre os estados e fica a cargo da Ferro realizar o recolhimento ST, seria interessante amarrar em um campo o percentual MVA a se utilizar na operação, no caso se ajustado ou original nos casos onde a carga tributária do estado remetente seja a mesma do destinatário.
 
@@ -307,49 +340,3 @@ E para que fique ainda mais eficiente, trazer as portaria mais utilizadas na ind
 | 4% | 12% | ☑️ SIM |
 | 4% | 7% | ☑️ SIM |
 | 12% | 12% | ❌ NÃO |
-
-
-Alíquotas 18%
-
-Ferramentas
-
-https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-14-de-2023.aspx
-
-Auto Peças
-
-https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-16-de-2023.aspx
-
-
-https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx
-
-
-
-
-### Pedidos devolvidos por cliente - Ferro Store (Devolução)
-
-Para a conferência e identificação das devoluções é preciso antes extrair o relatório de "Pedidos Devolvidos" e relacionar qual o período que gostaria de realizar a análise. Abaixo o caminho para realizar essa consulta:
-
-> ![image](https://github.com/user-attachments/assets/df934d83-c6ab-498d-813c-4c44fa46a31b)
-
-➡️**Passo a Passo:**
-
-#### 1. Faturamento / Vendas / Nota Fiscal / Consulta
-
-- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102 | 1.411) devido ser uma venda a consumidor final (Tributada(00 | 20 | 40) ou ST Recolhida anteriormente - 60), Modelo 55, Série 1.
-- Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado.
-- Ainda em Faturamento / Vendas altere o modelo para 65 e informe o número da NFC-e e verifique a venda realizada ao cliente.
-
-#### 2. Faturamento / Vendas / Consultar Cupom
-
-- Com o relatório extraído faça a consulta em Nº Pedido do Pedido de venda para verificar a saída feita para o cliente.
-- E também em Nº Pedido faça a consulta da Devolução para verificar se os lançamentos estão de acordo com a nota emitida de devolução.
-- Pedido de Venda (Sequencial do número de venda).
-- Nº Devolução é a solicitação do cliente, ou seja, o sequencial da ordem de devolução.
-
-> ![image](https://github.com/user-attachments/assets/d5cc9748-1914-4d84-bc5a-e97d211f61b5)
-
-#### 3. Conferência e validação das informações
-
-- Faça a conferência dos campos próprios (ICMS) se estão em conformidade, dados do cliente, Total da nota, itens (CP), quantidade, Valor, dados fiscais (NCM, CFOP, CST, PIS/COFINS).
-- Validar se a Nota de devolução esta conforme Pedido de devolução (Nº Devolução).
-
