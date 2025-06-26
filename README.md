@@ -266,7 +266,24 @@ Formas utilizadas para identificação da operação interna:
 
 #### 5.3 Resposta à consulta
 
+- Reposta à consulta - RC 30111_2024 - Prazo de cancelamento NF-e - Denúncia espontânea
+
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC30111_2024.aspx)
+
+- Reposta à consulta - RC 29209_2024 - Prazo de cancelamento NF-e
+  
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC29209_2024.aspx)
+
+- Reposta à consulta - RC 30001_2024 - ICMS – Substituição tributária – Operação interestadual – Devolução de mercadoria por contribuinte substituído – Documento fiscal – Crédito do imposto.
+  
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC30001_2024.aspx)
+
 ---------
+
+#### 5.3 Consulta IOB
+
+---------
+
 
 ### 6. Cálculo substituição tributária (MVA / Redução / IPI)
 
