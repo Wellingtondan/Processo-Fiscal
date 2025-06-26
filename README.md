@@ -320,17 +320,18 @@ Passo a Passo:
 
 ## 1. Faturamento / Vendas / Nota Fiscal / Consulta
 
-- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102) devido ser uma venda a consumidor final, Modelo 55, Série 1;
-- Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado;
+- Relacione em consulta o nome do cliente e preencha em movimento o nº da nota de devolução (1.102) devido ser uma venda a consumidor final, Modelo 55, Série 1.
+- Ao abrir na tela, em **Relação de Notas referenciadas** pegue a chave de acesso e faça a consulta da Nota Fiscal Consumidor Eletrônica (NFC-e) para verificar o número do cupom e se esta autorizado.
 - Ainda em Faturamento / Vendas altere o modelo para 65 e informe o número da NFC-e e verifique a venda realizada ao cliente.
 
 ## 2. Faturamento / Vendas / Consultar Cupom
 
 - Com o relatório extraído faça a consulta em Nº Pedido do Pedido de venda para verificar a saída feita para o cliente.
 - E também em Nº Pedido faça a consulta da Devolução para verificar se os lançamentos estão de acordo com a nota emitida de devolução.
+- Pedido de Venda (Sequencial do número de venda).
+- Nº Devolução é a solicitação do cliente, ou seja, o sequencial da ordem de devolução.
 
 > ![image](https://github.com/user-attachments/assets/d5cc9748-1914-4d84-bc5a-e97d211f61b5)
-
 
 ## 3. Conferência e validação das informações
 
