@@ -329,6 +329,9 @@ Passo a Passo:
 - Com o relatório extraído faça a consulta em Nº Pedido do Pedido de venda para verificar a saída feita para o cliente.
 - E também em Nº Pedido faça a consulta da Devolução para verificar se os lançamentos estão de acordo com a nota emitida de devolução.
 
+> ![image](https://github.com/user-attachments/assets/d5cc9748-1914-4d84-bc5a-e97d211f61b5)
+
+
 ## 3. Conferência e validação das informações
 
 - Faça a conferência dos campos próprios (ICMS) se estão em conformidade, dados do cliente, Total da nota, itens (CP), quantidade, Valor, dados fiscais (NCM, CFOP, CST, PIS/COFINS).
