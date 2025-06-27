@@ -197,7 +197,7 @@ Formas utilizadas para identificação da operação interna:
 
 > ➡️[Acesse - Materiais Elétricos](https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-86-de-2024.aspx)
 
-> ➡️[Acesse - máquinas, aparelhos e equipamentos industrias](https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx)
+> ➡️[Acesse - Máquinas, Aparelhos e Equipamentos Industrias (12%)](https://legislacao.fazenda.sp.gov.br/Paginas/resf041998.aspx)
 
 #### 5.2 RICMS
 
