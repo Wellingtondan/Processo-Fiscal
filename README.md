@@ -91,11 +91,11 @@ A nota emitida pelo Mercado Livre Full de Outras Entradas - Retorno Simbólico d
 
 #### 1.4 - Série da NF-e
 
-> **SÉRIE 001** - Utilizada pela Ferro Industria (Antiga) em suas emissões
+> **SÉRIE 001** - Utilizada pela Ferro Industria (Antiga) em suas emissões e Ferro STORE também.
 
-> **SÉRIE 002** - Utilizada atualmente pela Ferro Ferramantas (E-commerce - ML | TIK TOK ! LEROY MERLIN | FERRO STORE)
+> **SÉRIE 002** - Utilizada atualmente pela Ferro Ferramantas (E-commerce - ML | TIK TOK ! LEROY MERLIN | FERRO STORE).
 
-> **SÉRIE 003** - Utilizada na emissão das notas pelo Mercado Livre Full (E.bazar)
+> **SÉRIE 003** - Utilizada na emissão das notas pelo Mercado Livre Full (E.bazar).
 
 --------
 
