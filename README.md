@@ -248,6 +248,9 @@ Formas utilizadas para identificação da operação interna:
 
 > ➡️[Convênio 142/18 - Regime de substituição tributária](https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18)
 
+> ➡️[Operações com equipamentos industriais e implementos agrícolas.](https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV052_91)
+
+
 --------
 
 📑**Isenção**: 
