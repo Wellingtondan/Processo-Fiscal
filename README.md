@@ -281,6 +281,20 @@ Formas utilizadas para identificação da operação interna:
   
 > ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC30001_2024.aspx)
 
+- ICMS – Substituição tributária – Base de cálculo – IPI.
+  
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC30782_2024.aspx)
+
+- ICMS – Venda de mercadoria a contribuinte do imposto, destinada a industrialização ou comercialização – Inclusão do IPI na base de cálculo do ICMS.
+
+   - I. O montante do IPI não integra a base de cálculo do ICMS quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configurar fato gerador de ambos os impostos – ICMS e IPI.
+
+   - II. Quando o produto for destinado ao consumo próprio do comprador ou ao seu ativo imobilizado, o valor do IPI deve integrar a base de cálculo do ICMS.
+  
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC26061_2022.aspx)
+
+> ➡️[Acesse a consulta](https://legislacao.fazenda.sp.gov.br/Paginas/RC23360_2021.aspx)
+
 ---------
 
 #### 5.3 Consulta IOB
